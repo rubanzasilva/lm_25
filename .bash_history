@@ -10,3 +10,7 @@ git pull
 git checkout -b ltg
 git push origin ltg
 git init
+git add .
+git commit -m "adding nb"
+git push origin ltg
+git add.
