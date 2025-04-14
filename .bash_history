@@ -14,3 +14,6 @@ git add .
 git commit -m "adding nb"
 git push origin ltg
 git add.
+git add .
+git commit -m "adding llama 3.1 8b "
+git push origin ltg
