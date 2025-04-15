@@ -10,3 +10,13 @@ git pull
 git checkout -b ltg
 git push origin ltg
 git init
+git add .
+git commit -m "adding nb"
+git push origin ltg
+git add.
+git add .
+git commit -m "adding llama 3.1 8b "
+git push origin ltg
+git add .
+git commit -m "adding rag with ug_cc attempt 1"
+git push origin ltg
