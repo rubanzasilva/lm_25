@@ -20,3 +20,8 @@ git push origin ltg
 git add .
 git commit -m "adding rag with ug_cc attempt 1"
 git push origin ltg
+git add .
+git commit -m "Adding new rag implememntation"
+git push origin ltg
+git add .
+git commit -m "Adding new rag changes"
